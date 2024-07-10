@@ -24,10 +24,11 @@ body{
         margin-right: 10px;
         font-size: 25px;
         padding: 5px;
+        border-radius: 25%;
         transition: .25s ease-in-out;
+
         &:hover{
             background-color: rgb(79, 79, 255);
-            border-radius: 25%;
         }
     }
 }
