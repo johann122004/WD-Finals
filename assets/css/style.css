@@ -55,7 +55,7 @@ section.profile .text{
     object-position: top;
     & h2{
         font-size: 50px;
-        text-align: center;
+        text-align: left;
         color: rgb(255, 0, 0);
         position: relative;
         left: 115px;
@@ -63,10 +63,13 @@ section.profile .text{
     & h4{
         font-size: 37.5px;
         text-align:left;
-        color: rgb(205, 255, 255);
+        color: rgb(209, 106, 212);
         position: relative;
         left: 115px;
         margin-left: 50px;
+        border: 5px solid black;
+        background-color: rgba(253, 253, 149, 0.699);
+        padding: 15px;
     }
 }
 
