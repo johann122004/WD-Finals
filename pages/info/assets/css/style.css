@@ -40,40 +40,19 @@ section.introduction{
 }
 
 section.info{
-    display: flex;
     border: 5px solid black;
     background-color: rgba(255, 255, 255, 0.534);
-}
-
-section.info .pi{
     padding: 20px;
-    width: 100%;
-    height: 80%;
+    height: 100%;
+    margin-left: 200px;
+    margin-right: 200px;
     & h1{
         font-size: 30px;
+        text-align: center;
     }
     & h3{
         font-size: 20px;
         font-family: Arial, Helvetica, sans-serif;
-    }
-}
-
-section.info .resume{
-    padding: 20px;
-    width: 100%;
-    height: 80%;
-    & h1{
-        font-size: 30px;
-        display: flex;
-        justify-content: flex-end;
-    }
-    & h3{
-        font-size: 20px;
-        font-family: Arial, Helvetica, sans-serif;
-    }
-    & li{
-        padding-left: 10px;
-        font-size: 20px;
-        font-weight: lighter;
+        text-align: center;
     }
 }
