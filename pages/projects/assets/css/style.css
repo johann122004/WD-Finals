@@ -31,10 +31,28 @@ body{
 
 section.introduction{
     & h1{
-        font-size: 50px;
+        text-align: center;
+        font-size: 25px;
         text-decoration: underline;
         padding-top: 100px;
-        text-align: center;
         margin-bottom: 25px;
+    }
+}
+
+section.seatwork .gallery{
+    align-items: center;
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+    & img{
+        width: 100%;
+        height: auto;
+        border-radius: 10%;
+        opacity: 0.5;
+        transition: 0.25s ease-in-out;
+        &:hover{
+            opacity: 1;
+        }
     }
 }
