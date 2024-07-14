@@ -55,6 +55,9 @@
       <a href="#websites">Websites</a>
     </li>
     <li>
+      <a href="#wakatime">Wakatime</a>
+    </li>
+    <li>
       <a href="#resources">Resources</a>
     </li>
   </ol>
@@ -124,6 +127,10 @@ Guiding Question:
 - Hands On 1 - https://github.com/johann122004/WD-Midterms
 - Hands On 2 https://github.com/johann122004/WD-Lopez-Hands-On-2
 
+
+## Wakatime
+ - Link to the activity - https://wakatime.com/projects/WD-Finals?start=2024-07-08&end=2024-07-14
+ 
 
 ```
 WD-ProjectName
