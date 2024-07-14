@@ -130,7 +130,6 @@ Guiding Question:
 
 ## Wakatime
  - Link to the activity - https://wakatime.com/projects/WD-Finals?start=2024-07-08&end=2024-07-14
- 
 
 ```
 WD-ProjectName
