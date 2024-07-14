@@ -27,6 +27,11 @@ header {
 body{
     background-image: linear-gradient(to right, rgb(235, 135, 135), rgb(240, 70, 70));
     background-attachment: fixed;
+    & img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 section.introduction{
