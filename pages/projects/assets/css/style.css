@@ -28,3 +28,13 @@ body{
     background-image: linear-gradient(to right, rgb(235, 228, 135), rgb(240, 237, 70));
     background-attachment: fixed;
 }
+
+section.introduction{
+    & h1{
+        font-size: 50px;
+        text-decoration: underline;
+        padding-top: 100px;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+}
