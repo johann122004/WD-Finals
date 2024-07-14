@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    background-color: rgb(240, 220, 43);
+    z-index: 999;
+    & a{
+        padding: 10px;
+        font-size: 25px;
+        color: white;
+        transition: .25s ease-in-out;
+        border-radius: 25%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        &:hover{
+            background-color: rgb(107, 109, 0);
+        }
+    }
+}
+
+body{
+    background-image: linear-gradient(to right, rgb(235, 228, 135), rgb(240, 237, 70));
+    background-attachment: fixed;
+}
