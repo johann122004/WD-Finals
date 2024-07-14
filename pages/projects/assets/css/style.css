@@ -40,7 +40,23 @@ section.introduction{
 }
 
 section.seatwork .gallery{
-    align-items: center;
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+    & img{
+        width: 100%;
+        height: auto;
+        border-radius: 10%;
+        opacity: 0.5;
+        transition: 0.25s ease-in-out;
+        &:hover{
+            opacity: 1;
+        }
+    }
+}
+
+section.hands-on .gallery{
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
