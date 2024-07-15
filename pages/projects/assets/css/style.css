@@ -25,7 +25,7 @@ header {
 }
 
 body{
-    background-image: linear-gradient(to right, rgb(235, 228, 135), rgb(240, 237, 70));
+    background-image: linear-gradient(rgb(235, 228, 135), rgb(240, 237, 70));
     background-attachment: fixed;
 }
 
@@ -43,7 +43,7 @@ section.introduction{
 section.seatwork .gallery{
     background-color: rgba(255, 251, 0, 0.603);
     margin: 30px;
-    border: 1px solid black;
+    border: 5px solid black;
     float: left;
     width: 500px;
     padding: 20px;
@@ -77,7 +77,7 @@ section.seatwork .gallery{
 section.hands-on .gallery{
     background-color: rgba(255, 251, 0, 0.603);
     margin: 30px;
-    border: 1px solid black;
+    border: 5px solid black;
     float: left;
     width: 500px;
     padding: 20px;

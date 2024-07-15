@@ -25,7 +25,7 @@ header {
 }
 
 body{
-    background-image: linear-gradient(to right, rgb(143, 235, 135), rgb(84, 240, 70));
+    background-image: radial-gradient(circle, rgb(175, 255, 175), rgb(143, 235, 135), rgb(84, 240, 70));
     background-attachment: fixed;
 }
 
