@@ -38,18 +38,18 @@
           <a href="#key-components">Key Components</a>
         </li>
         <li>
+          <a href="#explanation">Explanation</a>
+        </li>
+        <li>
           <a href="#technology">Technology</a>
         </li>
       </ol>
     </li>
     <li>
-      <a href="#explanation">Explanation</a>
-    </li>
-    <li>
       <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
     </li>
     <li>
-      <a href="#deployment">Resources</a>
+      <a href="#deployment">Deployment</a>
     </li>
     <li>
       <a href="#websites">Websites</a>
