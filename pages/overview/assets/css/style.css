@@ -49,7 +49,11 @@ section.introduction{
     }
 }
 
-section.content{
+section.overview{
+    display: flex;
+}
+
+section.overview .purpose{
     border: 5px solid black;
     background-color: rgba(255, 255, 255, 0.534);
     padding: 20px;
@@ -63,6 +67,30 @@ section.content{
     }
     & h4{
         font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: lighter;
+    }
+}
+
+section.overview .content{
+    border: 5px solid black;
+    background-color: rgba(255, 255, 255, 0.534);
+    padding: 20px;
+    height: 100%;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    & h1{
+        font-size: 40px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    & h4{
+        font-size: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
+    & p{
+        font-size: 20px;
         font-family: Arial, Helvetica, sans-serif;
         font-weight: lighter;
     }
